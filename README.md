@@ -28,3 +28,5 @@
 >   -   **Loudness** (controls acceptance of new solutions)
 >   -   **Pulse rate** (controls exploration)
 >   -   Binarized version adapts the algorithm for bitstring solutions like in MDTWNPP.
+
+## Hardware Optimization(FPGA)
